@@ -1,6 +1,14 @@
 # EmnistRecognizer
 フレームワークを用いずnumpyだけで実装したCNNで、アルファベット26種類の画像認識。
+
+
 （活性化関数、畳み込み層だけでなくバッチ正規化やドロップアウトなどもすべてnumpyで実装）
+
+main：AlphabetsRecognizer.ipynb
+
+レイヤ：libs/layers
+
+検証用：alldatas_validation.ipynb
 
 ## 学習データ
 Emnist letters
