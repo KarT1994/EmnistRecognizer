@@ -11,5 +11,11 @@ https://www.tensorflow.org/datasets/catalog/emnist
 ## モデルアーキテクチャ
 「Very Deep Convolutional Networks for Large-Scale Image Recognition」を参考に構築（かなり古い論文だが実績あり）
 https://arxiv.org/abs/1409.1556
+
+構築したモデル
+
+![model_arch_AR](https://user-images.githubusercontent.com/80471123/128650072-9c4d61a4-621b-4d26-b151-de0f40cb26bb.png)
+
+
 BN：バッチ正規化
 DP：ドロップアウト
